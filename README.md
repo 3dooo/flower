@@ -1,1 +1,1 @@
-# Akabuki - https://3dooo.github.io/flower/
+# Flower - https://3dooo.github.io/flower/
